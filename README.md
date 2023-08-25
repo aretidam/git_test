@@ -1,5 +1,4 @@
 # git_test
-MY first GitHub repo!
-HEllo Odin!
-goodbye!
-lets try this agaiiiiiiin.
+My first GitHub repo!
+Aug-25-2023_Lesson on Commit Messages.
+The Odin Project. 41%
